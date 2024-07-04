@@ -24,3 +24,4 @@ document.addEventListener("DOMContentLoaded", function() {
     // Call function to create squares on page load
     createSquares();
 });
+
