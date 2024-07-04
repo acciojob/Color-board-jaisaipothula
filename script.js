@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    const container = document.querySelector(".container");
+    const container = document.getElementById("container");
 
     // Function to create 800 squares dynamically
     function createSquares() {
